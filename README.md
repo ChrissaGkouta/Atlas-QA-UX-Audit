@@ -1,11 +1,11 @@
 # Atlas-Internship-Portal-QA-UX-Audit-Case-Study
 
-##  Executive Summary
+## 📌 Executive Summary
 A comprehensive Quality Assurance (QA) and User Experience (UX/UI) audit performed on Greece’s national internship portal (**Atlas**). This project demonstrates manual testing methodologies, structured defect tracking using Jira, accessibility evaluations, and UX redesign proposals.
 
 ---
 
-## Test Plan & Strategy
+## 🛠️ Test Plan & Strategy
 * **Objective:** Verify functional correctness, input validation, filtering logic, and UI usability of the search and filtering modules.
 * **In Scope:** Keyword search, group code validation, filter combinations, sorting mechanisms, pagination, and accessibility (WCAG).
 * **Out of Scope:** Authentication systems (TaxisNet) and administrative backend operations.
