@@ -39,7 +39,7 @@ All identified functional bugs and UI/UX enhancements were logged and categorize
 2. **ATLAS-2 (Bug - High):** Keyword search for "QA" returns irrelevant positions.
 3. **ATLAS-3 (Bug - Medium):** Employer search displays organizations with 0 active positions.
 4. **ATLAS-4 (Bug - Medium):** Sorting by Date / Group Code fails to reorder results.
-5. **UX-01 to UX-05 (Stories/Improvements):** Pagination scroll fixes, duration filter integration, multi-tag selectors, and date-range picker enhancements.
+5. **ATLAS-5 to ATLAS-9 (Stories/Improvements):** Pagination scroll fixes, duration filter integration, multi-tag selectors, and date-range picker enhancements.
 
 ---
 
