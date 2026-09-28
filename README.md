@@ -27,6 +27,9 @@ All identified functional bugs and UI/UX enhancements were logged and categorize
 
 ### Jira Board Overview
 
+<img width="1895" height="850" alt="Στιγμιότυπο οθόνης (180)" src="https://github.com/user-attachments/assets/b89620b2-4a96-49e3-97d7-d9119ff50182" />
+<img width="1260" height="779" alt="Στιγμιότυπο οθόνης (182)" src="https://github.com/user-attachments/assets/d0d052da-739b-4bed-b376-b2e1a6e3ccdb" />
+<img width="1269" height="781" alt="Στιγμιότυπο οθόνης (181)" src="https://github.com/user-attachments/assets/eafd7af0-3da3-4754-a727-e9e96997496f" />
 
 
 
