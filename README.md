@@ -45,4 +45,11 @@ All identified functional bugs and UI/UX enhancements were logged and categorize
 
 ## 🎨 UI/UX Redesign & Next Steps
 Based on the audit findings, an interactive high-fidelity prototype was designed in **Figma** to resolve usability bottlenecks.
-* 🔗 [Figma Prototype Link](YOUR_FIGMA_LINK_HERE)
+* 🔗 [Figma Prototype Link](https://www.figma.com/design/pXMvvM1wncABghat1gASP4/Untitled?node-id=0-1&t=WYN7JeA4AItXi6Kk-1)
+
+<img width="1440" height="1024" alt="Untitled" src="https://github.com/user-attachments/assets/278064ff-07cb-4706-9f53-28de5d657839" />
+
+
+
+
+
