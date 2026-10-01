@@ -44,7 +44,13 @@ All identified functional bugs and UI/UX enhancements were logged and categorize
 ---
 
 ## 🎨 UI/UX Redesign & Next Steps
-Based on the audit findings, an interactive high-fidelity prototype was designed in **Figma** to resolve usability bottlenecks.
+Following the QA and bug-hunting audit, the project transitioned into a user-centric redesign phase to resolve the critical friction points identified:
+* **Tool Used:** Designed in **Figma**.
+* **Key Solutions Implemented:**
+  * **Advanced Filtering:** Added an intuitive *Internship Duration* filter (3-month / 6-month options) to eliminate manual position checks (`UX-02`).
+  * **Multi-Tag Selection:** Introduced multi-select subject area pills/chips for flexible searching (`UX-03`).
+  * **Date Range Picker:** Replaced cumbersome fields with a clear date range selector for semester sorting (`UX-04`).
+  * **Enhanced Result Cards:** Cleaned up layout structure with clear active status badges and prominent action buttons.
 * 🔗 [Figma Prototype Link](https://www.figma.com/design/pXMvvM1wncABghat1gASP4/Untitled?node-id=0-1&t=WYN7JeA4AItXi6Kk-1)
 
 <img width="1440" height="1024" alt="Untitled" src="https://github.com/user-attachments/assets/278064ff-07cb-4706-9f53-28de5d657839" />
