@@ -50,6 +50,8 @@ Based on the audit findings, an interactive high-fidelity prototype was designed
 <img width="1440" height="1024" alt="Untitled" src="https://github.com/user-attachments/assets/278064ff-07cb-4706-9f53-28de5d657839" />
 
 
-
+## 💡 Key Takeaways
+* **QA Mindset:** Demonstrated ability to bridge the gap between technical bug reporting (Jira) and structured quality management (Test Cases).
+* **User-Centric Design:** Translated qualitative user friction points into practical, accessible UI improvements in Figma.
 
 
